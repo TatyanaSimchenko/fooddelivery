@@ -1,6 +1,7 @@
 import React from "react";
 import { Container, Row, Col, ListGroup, ListGroupItem } from "reactstrap";
 import { Link } from "react-router-dom";
+
 import logo from "../../assets/images/res-logo.png";
 
 import "../../styles/footer.css";
@@ -58,9 +59,11 @@ const Footer = () => {
             </div>
           </Col>
 
-          <Row className="mt-5">
+          <Row className="footer__follow mt-5">
             <Col lg="6" md="6">
-              <p className="copyright__text">Copyright - 2022, website made by TS. All Rights Reserved.</p>
+              <p className="copyright__text">
+                Copyright - 2022, website made by TS. All Rights Reserved.
+              </p>
             </Col>
             <Col lg="6" md="6">
               <div className="social__links d-flex justify-content-end ajign-items-center gap-4">
