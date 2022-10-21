@@ -8,17 +8,22 @@ const CartItem = ({ item }) => {
   const { id, title, price, image01, quantity, totalPrice } = item;
   const dispatch = useDispatch();
   const incrementItem = () => {
-    dispatch(cartActions.addItem({
-      id, title, price, image01
-    }))
-  }
+    dispatch(
+      cartActions.addItem({
+        id,
+        title,
+        price,
+        image01,
+      })
+    );
+  };
   const decreaseItem = () => {
-dispatch(cartActions.removeItem(id))
-  }
+    dispatch(cartActions.removeItem(id));
+  };
 
   const deleteItem = () => {
-    dispatch(cartActions.deleteItem(id))
-  }
+    dispatch(cartActions.deleteItem(id));
+  };
   return (
     <ListGroupItem className="cart__item border-0">
       <div className="cart__item-info d-flex gap-2">
