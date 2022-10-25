@@ -1,8 +1,11 @@
 {
   "files": {
     "main.css": "/fooddelivery/static/css/main.839524b9.css",
-    "main.js": "/fooddelivery/static/js/main.c71f3ee6.js",
+    "main.js": "/fooddelivery/static/js/main.4cc51361.js",
+    "static/media/bread(1).jpg": "/fooddelivery/static/media/bread(1).5d7501b49ecc5c40074a.jpg",
     "static/media/banner.jpg": "/fooddelivery/static/media/banner.b18fee65b0dcc0232fdf.jpg",
+    "static/media/bread(2).jpg": "/fooddelivery/static/media/bread(2).3e8d0c585c84c69ed29e.jpg",
+    "static/media/bread(3).jpg": "/fooddelivery/static/media/bread(3).a9c5253189992cab9fb1.jpg",
     "static/media/remixicon.svg?t=1590207869815": "/fooddelivery/static/media/remixicon.9cedd2150922ead84869.svg",
     "static/media/network.png": "/fooddelivery/static/media/network.7deb539d0303413c1704.png",
     "static/media/product_4.3.png": "/fooddelivery/static/media/product_4.3.2df1cebb0cf62346965c.png",
@@ -29,20 +32,17 @@
     "static/media/product_04.jpg": "/fooddelivery/static/media/product_04.f7c5294d0481fb12cc4c.jpg",
     "static/media/product_08.jpg": "/fooddelivery/static/media/product_08.efc6c71968cf3ffe817a.jpg",
     "static/media/remixicon.woff2?t=1590207869815": "/fooddelivery/static/media/remixicon.90668f6f9b3c2c18a090.woff2",
-    "static/media/bread(2).png": "/fooddelivery/static/media/bread(2).dd485726262fc6f94474.png",
     "static/media/res-logo.png": "/fooddelivery/static/media/res-logo.2f9021c4ef5fe532038e.png",
-    "static/media/bread(3).png": "/fooddelivery/static/media/bread(3).e4b9fdd91579778ae4cc.png",
-    "static/media/bread(1).png": "/fooddelivery/static/media/bread(1).2fbb5c91c696e21efcb6.png",
     "static/media/slick.svg": "/fooddelivery/static/media/slick.2630a3e3eab21c607e21.svg",
     "static/media/slick.eot": "/fooddelivery/static/media/slick.a4e97f5a2a64f0ab1323.eot",
     "static/media/slick.ttf": "/fooddelivery/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/fooddelivery/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/fooddelivery/index.html",
     "main.839524b9.css.map": "/fooddelivery/static/css/main.839524b9.css.map",
-    "main.c71f3ee6.js.map": "/fooddelivery/static/js/main.c71f3ee6.js.map"
+    "main.4cc51361.js.map": "/fooddelivery/static/js/main.4cc51361.js.map"
   },
   "entrypoints": [
     "static/css/main.839524b9.css",
-    "static/js/main.c71f3ee6.js"
+    "static/js/main.4cc51361.js"
   ]
 }
